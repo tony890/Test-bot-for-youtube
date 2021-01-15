@@ -1,0 +1,19 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "bot that botss",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
